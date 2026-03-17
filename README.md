@@ -1,6 +1,6 @@
 # React PDF Kit Starter Toolkit in Next.js with App Router and TypeScript
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/react-pdf-kit/starter-rp-nextjs-app-router-ts)
+[![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/react-pdf-kit/starter-rp-nextjs-app-router-ts)
 
 Welcome to the React PDF Kit Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with Next.js App Router and TypeScript. It showcases how the React PDF Viewer component can be integrated and rendered as part of a Next.js project.
 
